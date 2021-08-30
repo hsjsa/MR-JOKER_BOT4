@@ -222,7 +222,8 @@
       "GENIUS_API_TOKEN": {
          "description": "Go to this site https://docs.genius.com/. Get your api token",
          "required": false,
-         "value": ""         
+         "value": "" 
+       }     
       
    }
 }
