@@ -89,7 +89,7 @@
         "required": false
      },
      "EVENT_LOGS": {
-         "description": "Event logs channel to note down important bot level events, recommend to make this public. ex: '-100....'",
+         "description": "Event logs channel to note down important bot level events, recommend to make this public. ex: -100.... ",
          "required": true,
          "value": "-123456789"
       },
@@ -125,7 +125,7 @@
       }, 
       "STRICT_GBAN": {
          "description": "Enforce gbans across new groups as well as old groups. When a gbanned user talks, he will be banned.",
-         "value": "True"
+         "value": "true"
       },
       "DRAGONS": {
          "description": "A space separated list of user IDs who you want to assign as sudo users.",
@@ -205,7 +205,7 @@
          "value": ""
       },
        "ARQ_API_URL": {
-         "description": "Defult -> https://thearq.tech/",
+         "description": "Defult  https://thearq.tech/",
          "required": true,
          "value": "https://thearq.tech/"
       },
